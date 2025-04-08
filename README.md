@@ -29,9 +29,8 @@ Implement smooth scrolling for navigation links. Use JavaScript to filter course
 Test the UI on various devices and browsers to ensure compatibility. Optimize performance by minimizing CSS and JavaScript files. Conclusion The E-Learning Platform UI developed with HTML, CSS, and JavaScript offers a dynamic, user-focused interface. It combines simplicity with interactivity, ensuring users can navigate the platform effortlessly. By focusing on responsiveness and scalability, the UI is adaptable to future needs, making it an excellent solution for modern online education systems.
 
 OUTPUT :
-![Screenshot_8-4-2025_0233_127 0 0 1](https://github.com/user-attachments/assets/3b5e50a8-3889-438a-a0d3-6868615846ab)
-![Screenshot_8-4-2025_038_127 0 0 1](https://github.com/user-attachments/assets/ca5a8c0b-6e86-410b-b9ab-b94f8b153bd1)
-![Screensho![Screenshot_![Screenshot_8-4-2025_053_127 0 0 1](https://github.com/user-attachments/assets/b34b0ed0-ebc6-433e-8a26-9d58915ba78d)
-8-4-2025_0435_127 0 0 1](https://github.com/user-attachments/assets/5ef8c435-469f-40dd-ae54-57b1034dd76d)
-t_8-4-2025_0337_127 0 0 1](h![Screenshot_8-4-2025_044_127 0 0 1](https://github.com/user-attachments/assets/0e087d37-3fc6-451f-b731-0e88417912e4)
-ttps://github.com/user-attachments/assets/9aeae7b7-e51f-4ce2-be37-32d7dec8fe98)
+![Screenshot_8-4-2025_112538_127 0 0 1](https://github.com/user-attachments/assets/49d661cd-79a9-4937-95ea-c378374337b1)
+![Screenshot_8-4-2025_112618_127 0 0 1](https://github.com/user-attachments/assets/ac114804-4b3a-4a16-9a00-04e25fbd8dc9)
+![Screenshot_8-4-2025_112759_127 0 0 1](https://github.com/user-attachments/assets/010ac3f7-7c11-4dce-bb23-d2e7cee125c0)
+![Screenshot_8-4-2025_112827_127 0 0 1](https://github.com/user-attachments/assets/7d38a30b-45fa-46e9-91c1-8d5a31922ccc)
+![Screenshot_8-4-2025_11298_127 0 0 1](https://github.com/user-attachments/assets/a5b0f8cc-2fe6-49f7-9eb5-0cbbb4f72ec5)
